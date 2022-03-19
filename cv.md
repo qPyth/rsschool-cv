@@ -19,19 +19,8 @@ I am from Kazakhstan, Nur-Sultan. Now I am working medical device engineer and a
 ## Code example 
 
 ```
-
-package main
-
-import "fmt"
-
-func main() {
-	sum := 1
-	res := 0
-	for sum <= 1000 {
-		res += sum
-		sum++
-	}
-	fmt.Println(res)
+function multiply(a, b){
+  return a * b
 }
 
 ```
